@@ -1,79 +1,50 @@
-# **ARAVINTH V**
-Perambalur, Tamil Nadu, India  
-📞 +91 9360758154  
-📧 hello@telestack.dev  
-🔗 GitHub: https://github.com/codeforgebyaravinth-dev  
-🔗 LinkedIn: https://www.linkedin.com/in/buildwitharavinth/  
-🔗 X (Twitter): https://x.com/telestackcloud  
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
-## **PROFESSIONAL SUMMARY**
-Highly driven Software Developer with experience in Android development, backend engineering, database management, and cloud deployments. Skilled in building scalable applications, realtime communication systems, and end-to-end solutions with clean architecture and strong performance.
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-## **TECHNICAL SKILLS**
-
-**Programming:** Java, Python, JavaScript, SQL  
-**Android:** Java, Media Player, Chat Features, Realtime Updates, Room DB  
-**Backend:** Spring, Flask/FastAPI, REST APIs, Authentication  
-**Databases:** MongoDB, MySQL, SQLite, Firestore  
-**Cloud & DevOps:** Appwrite, Firebase, Cloudflare, Vercel, Docker, Git, GitHub  
-**Realtime Communication:** WebRTC, LiveKit  
-**Web Technologies:** HTML, CSS, JavaScript  
-**Tools:** Android Studio, VS Code, Postman  
+### ⚙️ Backend Development
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## **PROJECTS**
-
-### **Telestack – Unified Software as a Service**
-- Multi-feature suite with chat, notifications, media handling, APIs, and cloud functions.  
-- Integrated Appwrite, Firebase, and custom backend components.  
-- Implemented realtime voice/video calling using WebRTC & LiveKit.
-
-### **Hybrid Social Media App**
-- Built a social media platform supporting realtime interactions and media uploads.  
-- Utilized Room, Firestore, and Firebase for data syncing and storage.
-
-### **Blog Writing & Publishing Platform**
-- Full-stack system with user login, post creation, cloud storage, and publishing features.  
-- Optimized backend with SQL and Firestore.
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## **PROFESSIONAL EXPERIENCE**
-
-### **Full Stack Developer Intern — The Mind IT**  
-*Trichy | Aug 2025 – Sep 2025*  
-- Assisted in debugging and resolving software issues across frontend and backend.  
-- Worked with Git/GitHub for source control and team collaboration.  
-- Participated in Agile-based project development cycles.  
-- Contributed to building responsive UIs using HTML, CSS, JavaScript.
+### ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## **EDUCATION**
-
-**Bachelor of Engineering — Computer Science and Engineering**  
-*Thittagudi Sengunthar Engineering College, Thittagudi*  
-**Expected Graduation:** July 2026  
-**GPA:** 8.24  
-
-- Completed workshops: Python for Web Development, Hackathons.  
-- Projects include Telestack SaaS, Hybrid Social Media App, and Blog Platform.  
-- Relevant Courses: Android Development, DBMS, Software Engineering.
+### 📡 Realtime Communication
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF4F8B?style=for-the-badge&logo=livekit&logoColor=white)
 
 ---
 
-## **ACHIEVEMENTS**
-- Developed production-ready Android apps with realtime communication features.  
-- Successfully integrated WebRTC & LiveKit for live voice/video calling.  
-- Deployed apps using Cloudflare, Vercel, and Appwrite with cost-efficient hosting.
-
----
-
-## **LANGUAGES**
-- **English:** Intermediate (B1)  
-- **Tamil:** Native
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
