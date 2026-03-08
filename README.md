@@ -1,63 +1,52 @@
-If you want to **use this resume content in a GitHub README or portfolio page**, you can enhance it with **technology logos (badges)** so it looks modern and professional. Below is your **same resume structure but with skill logos added** (commonly used in GitHub profiles).
+# 👋 Hi, I'm Aravinth
 
-You can paste this directly into a **README.md**.
+🚀 Software Developer | Android Engineer | Backend Developer
+📍 Tamil Nadu, India
 
----
+💡 I build **scalable mobile apps, realtime communication systems, and cloud platforms**.
 
-# **ARAVINTH V**
-
-📍 Perambalur, Tamil Nadu, India
-📞 +91 9360758154
-📧 [hello@telestack.dev](mailto:hello@telestack.dev)
-
-🔗 GitHub: [https://github.com/codeforgebyaravinth-dev](https://github.com/codeforgebyaravinth-dev)
-🔗 LinkedIn: [https://www.linkedin.com/in/buildwitharavinth/](https://www.linkedin.com/in/buildwitharavinth/)
-🔗 X (Twitter): [https://x.com/telestackcloud](https://x.com/telestackcloud)
+Currently working on **Telestack — a unified developer platform for realtime applications and backend services.**
 
 ---
 
-# **PROFESSIONAL SUMMARY**
+## 🌐 Connect With Me
 
-Passionate Software Developer with hands-on experience in **Android development, backend engineering, realtime communication systems, and cloud platforms**. Skilled in building scalable applications using modern architectures and integrating technologies such as realtime messaging, media streaming, and distributed services. Experienced in delivering **end-to-end solutions from mobile applications to backend APIs and cloud deployment**.
+[![GitHub](https://img.shields.io/badge/GitHub-codeforgebyaravinth--dev-black?style=for-the-badge\&logo=github)](https://github.com/codeforgebyaravinth-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BuildWithAravinth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/buildwitharavinth/)
+[![X](https://img.shields.io/badge/X-TelestackCloud-black?style=for-the-badge\&logo=twitter)](https://x.com/telestackcloud)
+
+📧 Email: [hello@telestack.dev](mailto:hello@telestack.dev)
 
 ---
 
-# **TECHNICAL SKILLS**
+# 🚀 Tech Stack
 
-## Programming Languages
+### 💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 
----
-
-## Mobile Development
+### 📱 Mobile Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 
----
+### ⚙️ Backend
 
-## Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
----
-
-## Databases
+### 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
----
-
-## Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge\&logo=appwrite\&logoColor=white)
@@ -65,126 +54,70 @@ Passionate Software Developer with hands-on experience in **Android development,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
----
-
-## Realtime Communication
+### 📡 Realtime
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF4F8B?style=for-the-badge\&logo=livekit\&logoColor=white)
 
 ---
 
-## Development Tools
+# 🚀 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+## 🔹 Telestack
 
----
-
-# **PROJECTS**
-
-## Telestack — Unified SaaS Platform
-
-Designed and developed a multi-service platform integrating messaging, media handling, notifications, and backend APIs.
-
-**Key Contributions**
-
-* Built realtime messaging and communication features
-* Integrated voice and video calling using WebRTC & LiveKit
-* Connected backend services with Firebase and Appwrite
-* Designed scalable APIs and modular backend architecture
-
----
-
-## Hybrid Social Media Application
-
-Mobile application supporting social interactions and media sharing.
+Unified SaaS platform integrating messaging, notifications, and cloud APIs.
 
 **Features**
 
-* Realtime messaging
-* Media uploads
-* User authentication and profiles
-* Firestore + Room data synchronization
+* Realtime messaging system
+* Voice & video calling using WebRTC + LiveKit
+* Backend integrations with Firebase & Appwrite
+* Modular API architecture
 
 ---
 
-## Blog Writing & Publishing Platform
+## 🔹 Hybrid Social Media App
 
-Full-stack platform enabling users to create and publish blog content.
+Mobile social platform supporting realtime communication and media uploads.
+
+**Highlights**
+
+* Realtime chat system
+* Firestore + Room data syncing
+* Media sharing and profiles
+
+---
+
+## 🔹 Blog Writing Platform
+
+Full-stack blog publishing platform.
 
 **Features**
 
 * Secure authentication
-* Content creation tools
-* SQL & Firestore database optimization
-* Cloud storage integration
+* Content publishing tools
+* SQL + Firestore database integration
 
 ---
 
-# **PROFESSIONAL EXPERIENCE**
+# 📊 GitHub Stats
 
-### Full Stack Developer Intern — The Mind IT
-
-Trichy, Tamil Nadu
-Aug 2025 – Sep 2025
-
-* Debugged frontend and backend issues in production systems
-* Collaborated with Git/GitHub workflows
-* Built responsive UI using HTML, CSS, JavaScript
-* Worked in Agile development cycles
+![Aravinth GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeforgebyaravinth-dev\&show_icons=true\&theme=tokyonight)
 
 ---
 
-# **EDUCATION**
+# 🔥 GitHub Contribution Graph
 
-**B.E. Computer Science and Engineering**
-Thittagudi Sengunthar Engineering College
-
-Expected Graduation: **July 2026**
-GPA: **8.24**
-
-Relevant Coursework
-
-* Android Development
-* Database Management Systems
-* Software Engineering
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeforgebyaravinth-dev\&theme=tokyo-night)
 
 ---
 
-# **ACHIEVEMENTS**
+# 🎯 Current Goals
 
-* Built Android apps with realtime communication features
-* Integrated WebRTC + LiveKit voice/video calling
-* Deployed systems using Cloudflare, Vercel, Appwrite
-* Built **Telestack SaaS platform** integrating multiple backend services
-
----
-
-# **LANGUAGES**
-
-Tamil — Native
-English — Intermediate (B1)
+🚀 Build **Telestack — a next-generation developer platform**
+📱 Develop scalable Android apps
+☁️ Explore distributed backend architectures
 
 ---
 
-✅ This version is perfect for:
-
-* **GitHub Profile README**
-* **Developer portfolio**
-* **Open-source profile**
-* **Startup applications**
-
----
-
-If you want, I can also build a **complete GitHub profile README for you** with:
-
-* 🚀 **Telestack banner**
-* 📊 **GitHub stats**
-* 🔥 **contribution graph**
-* 🧠 **featured projects section**
-* 🌐 **developer branding**
-
-It will make your profile look like a **top open-source developer page**.
+⭐ If you like my projects, feel free to **star the repositories and follow me!**
