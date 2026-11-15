@@ -191,13 +191,18 @@ TypeScript-based gateway development focused on connecting services and providin
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codeforgebyaravinth-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgebyaravinth-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/codeforgebyaravinth-dev?tab=overview">
+    <img src="https://img.shields.io/badge/View%20GitHub%20activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+  </a>
+  <a href="https://github.com/codeforgebyaravinth-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/codeforgebyaravinth-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/codeforgebyaravinth-dev?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeforgebyaravinth-dev&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+> GitHub's native contribution calendar, repositories, commits, and project activity are available directly on my [profile](https://github.com/codeforgebyaravinth-dev).
 
 ---
 
