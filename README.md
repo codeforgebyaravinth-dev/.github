@@ -1,70 +1,128 @@
-<p align="center">
-  <img src="./assets/telestack-hero.svg" alt="Aravinth V — Freelance Software Developer" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+
+# Aravinth V
+
+### Freelance Software Developer
+
+I build **websites, booking experiences, mobile apps, backend systems, and cloud platforms** for businesses and product teams.
+
+From a polished landing page to a complete realtime platform, I help turn ideas into software that is clear, useful, and ready for real users.
+
+<a href="mailto:hello@telestack.dev"><img src="https://img.shields.io/badge/Start%20a%20project-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
+<a href="https://telestack.dev"><img src="https://img.shields.io/badge/View%20portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+
+    </td>
+    <td width="32%" align="center">
+      <img src="./assets/aravinth-v.jpg" alt="Aravinth V" width="220" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="mailto:hello@telestack.dev"><img src="https://img.shields.io/badge/Work%20with%20me-Contact%20me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
-  <a href="https://telestack.dev"><img src="https://img.shields.io/badge/Portfolio-telestack.dev-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/buildwitharavinth/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/codeforgebyaravinth-dev"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  <a href="https://www.linkedin.com/in/buildwitharavinth/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hello@telestack.dev"><img src="https://img.shields.io/badge/Email-hello%40telestack.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## About me
+## What I help businesses build
 
-I’m **Aravinth V**, a freelance software developer from Tamil Nadu, India. I help founders, teams, and businesses turn product ideas into dependable software.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Business websites</h3>
+      <p>Fast, responsive websites that explain your offer clearly and help visitors take action.</p>
+      <p><strong>Landing pages · Company websites · Marketing sites · Documentation · SEO-ready UI</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Booking systems</h3>
+      <p>Customer-friendly booking experiences for salons, barbers, service businesses, and appointment-based teams.</p>
+      <p><strong>Service pages · Booking flows · Availability · Admin workflows · Notifications</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile applications</h3>
+      <p>Reliable Android and cross-platform apps that connect smoothly to your business operations.</p>
+      <p><strong>Android · Flutter · Kotlin Multiplatform · Jetpack Compose · API integrations</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend and cloud systems</h3>
+      <p>Secure APIs and infrastructure for products that need dependable data, integrations, and scale.</p>
+      <p><strong>Auth · Databases · Realtime · Storage · Deployment · CI/CD</strong></p>
+    </td>
+  </tr>
+</table>
 
-My work covers the full path from architecture to production: mobile applications, backend APIs, realtime communication, databases, cloud deployment, SDKs, and developer tooling.
+## Selected work
 
-> I build software that is practical to use, straightforward to maintain, and ready to grow.
-
-## Services
-
-| Service | What I can deliver |
-| --- | --- |
-| **Mobile applications** | Android, Flutter, Kotlin Multiplatform, Jetpack Compose, integrations, and production-ready app architecture |
-| **Backend systems** | REST APIs, authentication, authorization, service architecture, dashboards, and third-party integrations |
-| **Realtime features** | WebSockets, WebRTC, LiveKit, MQTT, messaging, presence, notifications, and event-driven workflows |
-| **Data and storage** | PostgreSQL, MongoDB, MySQL, Firebase, Appwrite, Supabase, caching, and data synchronization |
-| **Cloud and delivery** | AWS, Google Cloud, Azure, Vercel, Cloudflare, Docker, Git, GitHub, and CI/CD workflows |
-| **Developer platforms** | SDKs, API tools, internal platforms, documentation, and developer experience improvements |
-
-## Featured work
-
-### Telestack — backend and realtime platform
-
-My flagship engineering project: a developer platform bringing authentication, storage, secrets, databases, realtime delivery, SDKs, and deployment together.
-
-**Engineering focus:** Go services, TypeScript APIs, PostgreSQL, MongoDB, NATS JetStream, Centrifugo, Docker, encrypted storage, multi-tenant identity, and cross-platform SDK foundations.
-
-**Explore:** [telestack.dev](https://telestack.dev)
-
-### Eziy Attendance Master — Android application
-
-An Android workforce application built with Kotlin and Jetpack Compose, combining attendance workflows, location-based verification, secure local storage, and MQTT notifications.
-
-[View source code →](https://github.com/codeforgebyaravinth-dev/eziy-attendance_master)
-
-### Telestack RTC — realtime collaboration
-
-A WebRTC project exploring peer-to-peer communication, connection diagnostics, direct file transfer, and browser collaboration features.
-
-[View source code →](https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo)
-
-### Telestack RealtimeDB — synchronization research
-
-Research and technical documentation focused on realtime data synchronization, edge-native storage, and backend architecture.
-
-[View source code →](https://github.com/codeforgebyaravinth-dev/telestack-realtime-db-FYP)
-
-### Telestack API Studio and Gateway
-
-Developer tooling and TypeScript gateway work for API development, service integration, and unified backend access.
-
-[API Studio](https://github.com/codeforgebyaravinth-dev/telestack-api-studio) · [Gateway](https://github.com/codeforgebyaravinth-dev/telestack-gateway)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Telestack</h3>
+      <p><strong>Developer infrastructure and realtime platform</strong></p>
+      <p>Authentication, databases, storage, secrets, realtime delivery, SDKs, dashboards, and cloud deployment brought together for modern applications.</p>
+      <p><code>Go</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>NATS</code> <code>Docker</code></p>
+      <a href="https://telestack.dev">Explore Telestack →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💈 Business websites</h3>
+      <p><strong>Customer-facing web experiences</strong></p>
+      <p>Responsive React/Vite experiences for beauty and barber businesses, designed around clear services, trust, and customer conversion.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>Vite</code></p>
+      <a href="https://github.com/FeatherX4/crush-beauty">Crush Beauty →</a> · <a href="https://github.com/FeatherX4/nybestbarbers">NY Best Barbers →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📺 TeleTube</h3>
+      <p><strong>Content and media platform</strong></p>
+      <p>A premium video platform with authentication, video feeds, watch pages, creator tooling, and Appwrite-powered services.</p>
+      <p><code>Next.js</code> <code>Tailwind CSS</code> <code>Appwrite</code> <code>Framer Motion</code></p>
+      <a href="https://github.com/FeatherX4/tele-tube">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Telestack RTC</h3>
+      <p><strong>Realtime communication and collaboration</strong></p>
+      <p>WebRTC mesh communication, peer diagnostics, file transfer, and browser collaboration features.</p>
+      <p><code>TypeScript</code> <code>WebRTC</code> <code>LiveKit</code> <code>Media APIs</code></p>
+      <a href="https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Eziy Attendance Master</h3>
+      <p><strong>Android workforce application</strong></p>
+      <p>Attendance workflows with location verification, secure local storage, Compose UI, and MQTT notifications.</p>
+      <p><code>Kotlin</code> <code>Android</code> <code>Jetpack Compose</code> <code>MQTT</code></p>
+      <a href="https://github.com/codeforgebyaravinth-dev/eziy-attendance_master">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Telestack Website</h3>
+      <p><strong>Product website and documentation experience</strong></p>
+      <p>A product-facing website with homepage, documentation, and content experiences for the Telestack ecosystem.</p>
+      <p><code>Svelte</code> <code>SvelteKit</code> <code>CSS</code> <code>Documentation</code></p>
+      <a href="https://github.com/FeatherX4/telestack-website">View project →</a>
+    </td>
+  </tr>
+</table>
 
 ## Technical capabilities
 
-### Mobile and application development
+### Frontend and product experience
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Mobile and application engineering
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -72,19 +130,12 @@ Developer tooling and TypeScript gateway work for API development, service integ
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-### Languages and backend
+### Backend, data, and realtime
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Data, realtime, and infrastructure
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -92,7 +143,6 @@ Developer tooling and TypeScript gateway work for API development, service integ
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
 
 ### Cloud and delivery
@@ -101,31 +151,26 @@ Developer tooling and TypeScript gateway work for API development, service integ
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## How I work
+## A simple path from idea to launch
 
-1. **Understand the goal** — clarify the users, business outcome, scope, and constraints.
-2. **Design the solution** — choose the architecture, data model, integrations, and delivery plan.
-3. **Build in milestones** — deliver a usable foundation early and keep progress visible.
-4. **Validate and harden** — test important paths, improve reliability, and address security concerns.
-5. **Deploy and hand over** — document the system and make future maintenance straightforward.
+| Phase | Outcome |
+| --- | --- |
+| **1. Discover** | Clarify the business goal, users, content, integrations, and success criteria |
+| **2. Plan** | Define the user experience, technical architecture, data model, and delivery milestones |
+| **3. Build** | Develop the product in visible, testable milestones with practical feedback loops |
+| **4. Launch** | Deploy, connect domains and services, document the system, and prepare the next iteration |
 
-## GitHub activity
+## Let’s build something useful
 
-<p align="center">
-  <a href="https://github.com/codeforgebyaravinth-dev?tab=overview"><img src="https://img.shields.io/badge/View%20GitHub%20activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" /></a>
-  <a href="https://github.com/codeforgebyaravinth-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://github.com/codeforgebyaravinth-dev?tab=followers"><img src="https://img.shields.io/github/followers/codeforgebyaravinth-dev?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
-</p>
-
-## Let’s work together
-
-If you need a mobile application, backend service, realtime feature, database integration, or cloud deployment, I’m available for freelance work and technical collaborations.
+Need a **business website, booking system, mobile app, backend platform, or cloud deployment**? I’m available for freelance projects and technical collaborations.
 
 <p align="center">
-  <a href="mailto:hello@telestack.dev"><img src="https://img.shields.io/badge/Start%20a%20project-Contact%20me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
+  <a href="mailto:hello@telestack.dev"><img src="https://img.shields.io/badge/Email%20me-hello%40telestack.dev-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/buildwitharavinth/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
