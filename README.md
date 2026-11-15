@@ -2,7 +2,9 @@
 
 # Hi, I'm Aravinth V 👋
 
-### Software Developer building mobile products, realtime systems, and developer platforms
+### Software Developer · Mobile Engineer · Backend & Cloud Builder
+
+I design and build practical software across **mobile applications, realtime systems, backend platforms, and cloud infrastructure**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-codeforgebyaravinth--dev-181717?style=for-the-badge&logo=github)](https://github.com/codeforgebyaravinth-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BuildWithAravinth-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/buildwitharavinth/)
@@ -13,29 +15,43 @@
 
 ## About me
 
-I enjoy turning practical ideas into reliable software. My work spans:
+I am a developer based in Tamil Nadu, India, focused on turning ideas into dependable products. I enjoy working across the full engineering lifecycle: architecture, APIs, databases, SDKs, mobile clients, deployment, and developer experience.
 
-- **Android applications** with Kotlin, Jetpack Compose, MVVM, and Coroutines
-- **Realtime communication** with WebRTC, LiveKit, MQTT, and event-driven services
-- **Backend and API infrastructure** with TypeScript, JavaScript, Python, and cloud services
-- **Developer tools and platforms** that make integrations, messaging, and collaboration easier
+My main areas of interest are:
 
-I’m based in Tamil Nadu, India, and currently building **Telestack**, a developer platform focused on realtime applications and backend services.
+- **Mobile engineering:** Android, Flutter, Kotlin Multiplatform, Jetpack Compose, and cross-platform product development
+- **Backend engineering:** APIs, authentication, storage, messaging, realtime data, and service-oriented systems
+- **Cloud and DevOps:** deployment, CI/CD, containers, infrastructure, and production operations
+- **Developer platforms:** SDKs, dashboards, API tooling, and services that make complex systems easier to use
+
+## Flagship project: Telestack
+
+**Telestack** is a developer platform I am building for realtime applications and backend services. The Telestack v1 architecture brings together:
+
+- Multi-tenant authentication, organizations, passkeys, and MFA
+- PostgreSQL and MongoDB data services with realtime change-data streaming
+- Encrypted object storage and a secrets/KMS service
+- Realtime delivery through Go services, NATS JetStream, and Centrifugo
+- TypeScript, Android/Kotlin, iOS/Swift, and Python SDK foundations
+- Docker-based deployment, API documentation, dashboards, and CI/CD workflows
+
+Explore the platform at [telestack.dev](https://telestack.dev).
 
 ## Selected work
 
-| Project | What it demonstrates |
+| Project | Focus |
 | --- | --- |
-| [Telestack](https://telestack.dev) | Realtime application infrastructure, APIs, gateways, and cloud integrations |
-| [Telestack RTC demo](https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo) | WebRTC mesh communication, peer diagnostics, file transfer, and collaboration features |
-| [Telestack RealtimeDB](https://github.com/codeforgebyaravinth-dev/telestack-realtime-db-FYP) | Research and documentation for realtime data synchronization and edge-native storage |
-| [Eziy Attendance Master](https://github.com/codeforgebyaravinth-dev/eziy-attendance_master) | Kotlin/Compose Android application with attendance verification, location services, and MQTT |
+| [Telestack RTC demo](https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo) | WebRTC mesh communication, peer diagnostics, file transfer, and collaboration |
+| [Telestack RealtimeDB](https://github.com/codeforgebyaravinth-dev/telestack-realtime-db-FYP) | Realtime synchronization, edge-native storage research, and technical documentation |
+| [Eziy Attendance Master](https://github.com/codeforgebyaravinth-dev/eziy-attendance_master) | Kotlin and Jetpack Compose Android application with attendance verification, location services, and MQTT |
 | [Telestack API Studio](https://github.com/codeforgebyaravinth-dev/telestack-api-studio) | API development tooling based on the Hoppscotch ecosystem |
+| [Telestack Gateway](https://github.com/codeforgebyaravinth-dev/telestack-gateway) | TypeScript gateway and service integration work |
 
-## Technology
+## Skills and technologies
 
-### Languages
+### Programming languages
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,31 +59,49 @@ I’m based in Tamil Nadu, India, and currently building **Telestack**, a develo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### Frameworks and platforms
+### Mobile and application frameworks
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Realtime, APIs, and infrastructure
+
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF4F8B?style=for-the-badge&logo=livekit&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Data, cloud, and delivery
+### Databases and backend services
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Cloud and deployment
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## What I'm exploring
+## How I can contribute
 
-- Making realtime features easier to build, operate, and scale
-- Connecting mobile experiences to dependable backend services
-- Improving developer workflows around APIs, messaging, and cloud infrastructure
-- Designing software that is secure, observable, and practical to use
+- Build mobile applications and shared Kotlin Multiplatform components
+- Design backend APIs, authentication, storage, and realtime features
+- Connect applications to PostgreSQL, MongoDB, MySQL, Firebase, Appwrite, and Supabase
+- Build and deploy containerized services across AWS, GCP, Azure, Vercel, and edge platforms
+- Improve CI/CD, developer tooling, SDKs, documentation, and production workflows
 
 ## GitHub activity
 
@@ -81,4 +115,6 @@ I’m based in Tamil Nadu, India, and currently building **Telestack**, a develo
 
 ## Let's connect
 
-Have an idea involving Android, realtime communication, backend systems, or developer tools? [Reach out by email](mailto:hello@telestack.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/buildwitharavinth/).
+I’m open to conversations about mobile development, realtime communication, backend platforms, cloud engineering, and developer tools.
+
+[Email me](mailto:hello@telestack.dev) · [LinkedIn](https://www.linkedin.com/in/buildwitharavinth/) · [Telestack](https://telestack.dev)
