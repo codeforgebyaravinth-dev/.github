@@ -1,120 +1,221 @@
-<div align="center">
+# Aravinth V
 
-# Hi, I'm Aravinth V 👋
+### Software Developer | Android & Cross-Platform Engineer | Backend Developer
 
-### Software Developer · Mobile Engineer · Backend & Cloud Builder
+I build software products — from polished mobile applications to scalable backend systems and developer platforms.
 
-I design and build practical software across **mobile applications, realtime systems, backend platforms, and cloud infrastructure**.
+My work focuses on **Android development, Kotlin Multiplatform, Flutter, backend engineering, and cloud infrastructure**. I enjoy taking ideas from architecture and design through implementation, deployment, and production.
 
-[![GitHub](https://img.shields.io/badge/GitHub-codeforgebyaravinth--dev-181717?style=for-the-badge&logo=github)](https://github.com/codeforgebyaravinth-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BuildWithAravinth-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/buildwitharavinth/)
-[![Website](https://img.shields.io/badge/Website-telestack.dev-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://telestack.dev)
-[![X](https://img.shields.io/badge/X-TelestackCloud-000000?style=for-the-badge&logo=x)](https://x.com/telestackcloud)
+<p align="center">
+  <a href="https://github.com/codeforgebyaravinth-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/buildwitharavinth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://telestack.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Telestack.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:hello@telestack.dev">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
-## About me
+## About Me
 
-I am a developer based in Tamil Nadu, India, focused on turning ideas into dependable products. I enjoy working across the full engineering lifecycle: architecture, APIs, databases, SDKs, mobile clients, deployment, and developer experience.
+I'm a software developer from Tamil Nadu, India, with a B.E. in Computer Science and Engineering (2026).
 
-My main areas of interest are:
+I enjoy engineering applications and systems that solve real problems. My development experience spans mobile application architecture, API development, database design, realtime communication, and cloud-based infrastructure.
 
-- **Mobile engineering:** Android, Flutter, Kotlin Multiplatform, Jetpack Compose, and cross-platform product development
-- **Backend engineering:** APIs, authentication, storage, messaging, realtime data, and service-oriented systems
-- **Cloud and DevOps:** deployment, CI/CD, containers, infrastructure, and production operations
-- **Developer platforms:** SDKs, dashboards, API tooling, and services that make complex systems easier to use
+I approach development with an engineering mindset: understand the problem, design the architecture, build the solution, and make it reliable.
 
-## Flagship project: Telestack
+### What I Build
 
-**Telestack** is a developer platform I am building for realtime applications and backend services. The Telestack v1 architecture brings together:
+| Area | Focus |
+|---|---|
+| **Android Development** | Native Android, Kotlin, Jetpack Compose, application architecture |
+| **Cross-Platform Development** | Kotlin Multiplatform, Flutter, shared business logic |
+| **Backend Engineering** | REST APIs, authentication, service architecture, integrations |
+| **Realtime Systems** | WebSockets, WebRTC, messaging, event-driven systems |
+| **Cloud & Infrastructure** | Docker, deployment, storage, CI/CD, cloud services |
+| **Developer Tools** | SDKs, API platforms, dashboards, developer experience |
 
-- Multi-tenant authentication, organizations, passkeys, and MFA
-- PostgreSQL and MongoDB data services with realtime change-data streaming
-- Encrypted object storage and a secrets/KMS service
-- Realtime delivery through Go services, NATS JetStream, and Centrifugo
-- TypeScript, Android/Kotlin, iOS/Swift, and Python SDK foundations
-- Docker-based deployment, API documentation, dashboards, and CI/CD workflows
+---
 
-Explore the platform at [telestack.dev](https://telestack.dev).
+## Featured Work
 
-## Selected work
+### 01. Telestack — Developer Infrastructure Platform
 
-| Project | Focus |
-| --- | --- |
-| [Telestack RTC demo](https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo) | WebRTC mesh communication, peer diagnostics, file transfer, and collaboration |
-| [Telestack RealtimeDB](https://github.com/codeforgebyaravinth-dev/telestack-realtime-db-FYP) | Realtime synchronization, edge-native storage research, and technical documentation |
-| [Eziy Attendance Master](https://github.com/codeforgebyaravinth-dev/eziy-attendance_master) | Kotlin and Jetpack Compose Android application with attendance verification, location services, and MQTT |
-| [Telestack API Studio](https://github.com/codeforgebyaravinth-dev/telestack-api-studio) | API development tooling based on the Hoppscotch ecosystem |
-| [Telestack Gateway](https://github.com/codeforgebyaravinth-dev/telestack-gateway) | TypeScript gateway and service integration work |
+**Building an open-source-oriented backend and cloud platform.**
 
-## Skills and technologies
+Telestack is my flagship engineering project. The goal is to make backend infrastructure, realtime communication, authentication, storage, and developer tooling accessible through a unified platform.
 
-### Programming languages
+**Engineering focus**
+- Multi-tenant authentication and identity management
+- PostgreSQL and MongoDB data services
+- Realtime data synchronization and event streaming
+- Encrypted object storage and secrets management
+- Go-based services and TypeScript APIs
+- SDKs, dashboards, and developer tooling
+- Containerized deployment and infrastructure automation
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+**Technologies:** Go · TypeScript · PostgreSQL · MongoDB · NATS · Centrifugo · Docker
 
-### Mobile and application frameworks
+Explore: [telestack.dev](https://telestack.dev)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+---
 
-### Realtime, APIs, and infrastructure
+### 02. Telestack RTC
 
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF4F8B?style=for-the-badge&logo=livekit&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Realtime communication and peer-to-peer collaboration.**
 
-### Databases and backend services
+An experimental WebRTC project exploring browser-based communication, peer connectivity, diagnostics, and direct file transfer.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- Peer-to-peer communication
+- Connection diagnostics
+- File transfer
+- Realtime collaboration concepts
 
-### Cloud and deployment
+[View Source Code](https://github.com/codeforgebyaravinth-dev/TelestackRTC_demo)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+---
 
-## How I can contribute
+### 03. Eziy Attendance Master
 
-- Build mobile applications and shared Kotlin Multiplatform components
-- Design backend APIs, authentication, storage, and realtime features
-- Connect applications to PostgreSQL, MongoDB, MySQL, Firebase, Appwrite, and Supabase
-- Build and deploy containerized services across AWS, GCP, Azure, Vercel, and edge platforms
-- Improve CI/CD, developer tooling, SDKs, documentation, and production workflows
+**Android application development with Kotlin and Jetpack Compose.**
 
-## GitHub activity
+An Android attendance application exploring practical mobile engineering and device capabilities.
 
-<div align="center">
+- Native Android development
+- Jetpack Compose UI
+- Location-based verification
+- MQTT integration
+- Application and service integration
 
-![Aravinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeforgebyaravinth-dev&show_icons=true&theme=tokyonight&hide_border=true)
+[View Source Code](https://github.com/codeforgebyaravinth-dev/eziy-attendance_master)
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=codeforgebyaravinth-dev&theme=tokyo-night&hide_border=true)
+---
 
-</div>
+### 04. Telestack RealtimeDB
 
-## Let's connect
+**Realtime synchronization and database architecture research.**
 
-I’m open to conversations about mobile development, realtime communication, backend platforms, cloud engineering, and developer tools.
+An engineering project focused on realtime data synchronization, edge-native storage concepts, and backend architecture.
 
-[Email me](mailto:hello@telestack.dev) · [LinkedIn](https://www.linkedin.com/in/buildwitharavinth/) · [Telestack](https://telestack.dev)
+[View Source Code](https://github.com/codeforgebyaravinth-dev/telestack-realtime-db-FYP)
+
+---
+
+### 05. Telestack API Studio
+
+**Developer tooling for API development and testing.**
+
+An API development environment based on the Hoppscotch ecosystem.
+
+[View Source Code](https://github.com/codeforgebyaravinth-dev/telestack-api-studio)
+
+---
+
+### 06. Telestack Gateway
+
+**Backend gateway and service integration.**
+
+TypeScript-based gateway development focused on connecting services and providing a unified backend interface.
+
+[View Source Code](https://github.com/codeforgebyaravinth-dev/telestack-gateway)
+
+---
+
+## Technical Expertise
+
+### Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+### Backend & Realtime Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-FF4F8B?style=flat-square&logo=livekit&logoColor=white" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## What I Can Help Build
+
+- Native Android applications using Kotlin and Jetpack Compose.
+- Cross-platform applications using Kotlin Multiplatform and Flutter.
+- Backend APIs, authentication systems, and database integrations.
+- Realtime messaging, communication, and collaboration features.
+- Admin dashboards, developer tools, and SaaS applications.
+- Cloud deployment, containerization, and backend integrations.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codeforgebyaravinth-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgebyaravinth-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeforgebyaravinth-dev&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## Let's Build Something
+
+I'm open to freelance projects, software development opportunities, and collaborations involving mobile applications, backend systems, realtime technologies, and cloud platforms.
+
+If you have an idea or a product that needs engineering, let's talk.
+
+<p align="center">
+  <a href="mailto:hello@telestack.dev">
+    <img src="https://img.shields.io/badge/Let's_Talk-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/buildwitharavinth/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed and engineered by Aravinth V · Tamil Nadu, India</sub>
+</p>
